@@ -1,15 +1,12 @@
 # correccion_prueba_topicos
 
-Se creo una aplicaciÛn donde se podr· guardar anotaciones para compras que es lo que se quiere comprar y cuanto o alg˙n detalle especifico de lo que se quiere recordar para comprar.
+Se creo una aplicaci√≥n donde se podr√° guardar anotaciones para compras que es lo que se quiere comprar y cuanto o alg√∫n detalle especifico de lo que se quiere recordar para comprar.
 
-Este es el icono de la aplicaciÛn 
+Este es el icono de la aplicaci√≥n 
 
+![icono](https://user-images.githubusercontent.com/43852960/87452219-8f80c980-c5c6-11ea-8c24-106af9162cdd.PNG)
 
-
-
-
-
-Tenemos un Splash Screen, un leÛn que ser· el que aparezca antes de la interfaz de la aplicaciÛn.
+Tenemos un Splash Screen, un le√≥n que ser√° el que aparezca antes de la interfaz de la aplicaci√≥n.
 
 
 
@@ -20,7 +17,7 @@ Tenemos un Splash Screen, un leÛn que ser· el que aparezca antes de la interfaz 
 
 
 
-Se tiene un men˙ de acciones que nos permitir·n guardar, actualizar y borrar
+Se tiene un men√∫ de acciones que nos permitir√°n guardar, actualizar y borrar
 
 Mediante un ListView vamos a mostrar los elementos guardados desde nuestra base de datos
 
@@ -31,11 +28,11 @@ Mediante un ListView vamos a mostrar los elementos guardados desde nuestra base 
 
 
 
-Tendremos dos Edit Text que nos servir· para ingresar la compra y el detalle de nuestra compra
+Tendremos dos Edit Text que nos servir√° para ingresar la compra y el detalle de nuestra compra
 
-Los mismos que servir·n para que nos muestre los detalles de cada uno 
+Los mismos que servir√°n para que nos muestre los detalles de cada uno 
 
 Tenemos nuestra base de datos en firebase
 
-AquÌ se guardar· todos nuestros datos que ingresamos
+Aqu√≠ se guardar√° todos nuestros datos que ingresamos
 
